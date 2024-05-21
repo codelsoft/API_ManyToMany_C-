@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ManyToMany2.props" />
+</Project>
